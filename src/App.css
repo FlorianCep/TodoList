@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+
+h1 {
+  padding: 45px 0px 30px 0px;
+}
+
+hr {
+  border-bottom: 2px solid rgb(0, 42, 133);
+  margin-bottom: 50px;
+}
+
+.saisie {
+  display: flex;
+  padding: 25px 20px 10px 20px;
+}
+
+.oneItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 20px 30px 20px;
+  box-shadow: 5px 5px 10px -1px #DDDDDD;
+}
+
+body {
+  background-color: rgb(241, 241, 241);
+}
+
+.container {
+  background-color: white;
+  border-radius: 0px 0px 10px 10px;
+}
